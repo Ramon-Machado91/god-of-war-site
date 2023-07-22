@@ -1,0 +1,112 @@
+@media(max-width:900px){
+    main{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      
+    }
+
+    .decription-about-game{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .description-char{
+        display: flex;
+        flex-direction: column;
+        padding-top: 50px;
+    }
+
+    
+    .axel{
+      margin:0;
+    }
+  
+    .informacoes{
+      margin-top: 80px;
+    }
+
+    footer .container-icons{
+    margin-top: 250px;
+    }
+  }
+
+@media(max-width:450px){
+
+  .header-container img{
+    width: 60%;
+    height: 60%;
+    margin-left: 10px;
+  }
+  
+  .header-container p{
+    font-size: 25px;
+  }
+  
+  .description-container{
+    margin-left: 20px;
+  }
+  
+  .informacoes h1{
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .informacoes h4{
+    text-align: center;
+  }
+
+  .informacoes p{
+    text-align: center;
+  }
+
+  .btns{
+    justify-content: center;
+  }
+
+  
+.description-second-section{
+  text-align: center;
+  margin-left: 0px;
+  
+  
+}
+.description-second-section p{
+    font-size: 20px;
+    margin-left: 0px;
+    width: 350px;
+}
+
+.decription-about-game{
+  padding: 0px;
+}
+
+.decription-about-game p{
+  margin-left: 20px;
+  
+}
+
+.description-container{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-right: 0px;
+}
+
+.description-char{
+  text-align: center;
+  
+}
+
+.text-reserved{
+  text-align: center;
+  font-size: 12px;
+}
+
+
+
+    
+}

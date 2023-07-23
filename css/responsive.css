@@ -46,7 +46,9 @@
   }
   
   .header-container p{
-    font-size: 12px;
+    font-size: 10px;
+    letter-spacing: 5px;
+    line-height: 20px;
     text-align: left;
   }
   

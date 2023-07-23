@@ -46,17 +46,22 @@
   }
   
   .header-container p{
-    font-size: 25px;
+    font-size: 12px;
+    text-align: left;
   }
   
   .description-container{
     margin-left: 20px;
   }
+
+  .informacoes{
+    line-height: 30px;
+  }
   
   .informacoes h1{
     font-size: 35px;
     text-align: center;
-    padding: 20px;
+    
   }
 
   .informacoes h4{
@@ -69,6 +74,7 @@
 
   .btns{
     justify-content: center;
+    margin-top: 30px;
   }
 
   

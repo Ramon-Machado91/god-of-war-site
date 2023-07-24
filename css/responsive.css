@@ -92,6 +92,11 @@
     width: 350px;
 }
 
+.icons-dev img{
+  position: relative;
+  left: 80%;
+}
+
 .decription-about-game{
   padding: 0px;
 }

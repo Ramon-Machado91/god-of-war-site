@@ -1,4 +1,1 @@
-var swiper = new Swiper(".slide-characters", {
-    slidesPerView: 3,
-    spaceBetween: 30,
- });
+/* SCRIPT PARA FUTURAS MELHORIAS E ADICIONAR FUNCIONALIDADES NO PROJETO CONFORME APRENDIZADO DE JS */
